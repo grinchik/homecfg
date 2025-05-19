@@ -1,0 +1,7 @@
+# CVE-2024-32002
+[core]
+	symlinks = false
+[commit]
+	gpgsign = true
+[include]
+	path = ~/.gitconfig.user
