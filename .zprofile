@@ -4,3 +4,5 @@ export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/b
 eval "$(/opt/homebrew/bin/brew shellenv)";
 
 export GPG_TTY=$(tty);
+
+[ -f ~/.zprofile.local ] && source ~/.zprofile.local;
