@@ -14,7 +14,6 @@
     "terminal.integrated.lineHeight": 1.75,
     "window.newWindowDimensions": "inherit",
     "window.openFilesInNewWindow": "on",
-    "window.openFoldersInNewWindow": "on",
     "workbench.editor.revealIfOpen": true,
     "workbench.editor.untitled.hint": "hidden",
     "workbench.iconTheme": null,
