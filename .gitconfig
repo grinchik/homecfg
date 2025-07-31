@@ -1,3 +1,5 @@
+[core]
+	excludesFile = ~/.gitignore
 [commit]
 	gpgsign = true
 [include]
