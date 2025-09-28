@@ -25,4 +25,5 @@
     "debug.javascript.codelens.npmScripts": "never",
     "editor.autoClosingQuotes": "never",
     "python.analysis.typeCheckingMode": "strict",
+    "telemetry.feedback.enabled": false,
 }
