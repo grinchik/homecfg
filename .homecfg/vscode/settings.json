@@ -28,4 +28,5 @@
     "telemetry.feedback.enabled": false,
     "editor.cursorStyle": "block",
     "editor.cursorBlinking": "solid",
+    "editor.autoClosingBrackets": "beforeWhitespace",
 }
