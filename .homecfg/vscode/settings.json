@@ -26,4 +26,6 @@
     "editor.autoClosingQuotes": "never",
     "python.analysis.typeCheckingMode": "strict",
     "telemetry.feedback.enabled": false,
+    "editor.cursorStyle": "block",
+    "editor.cursorBlinking": "solid",
 }
