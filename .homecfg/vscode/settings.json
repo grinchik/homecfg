@@ -29,4 +29,5 @@
     "editor.cursorStyle": "block",
     "editor.cursorBlinking": "solid",
     "editor.autoClosingBrackets": "beforeWhitespace",
+    "html.autoClosingTags": false,
 }
