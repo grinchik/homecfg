@@ -1,0 +1,11 @@
+#!/bin/zsh
+
+setopt ERR_EXIT
+
+DEV_PATH="$1"
+MOUNT_PATH="/Volumes/$(basename "${DEV_PATH}")"
+
+mkdir "${MOUNT_PATH}"
+
+diskutil apfs unlockVolume "${DEV_PATH}" -nomount
+diskutil mount readOnly -mountPoint "${MOUNT_PATH}" "${DEV_PATH}"
