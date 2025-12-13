@@ -31,4 +31,5 @@
     "editor.autoClosingBrackets": "beforeWhitespace",
     "html.autoClosingTags": false,
     "chat.disableAIFeatures": true,
+    "diffEditor.hideUnchangedRegions.enabled": true,
 }
