@@ -30,4 +30,5 @@
     "editor.cursorBlinking": "solid",
     "editor.autoClosingBrackets": "beforeWhitespace",
     "html.autoClosingTags": false,
+    "chat.disableAIFeatures": true,
 }
