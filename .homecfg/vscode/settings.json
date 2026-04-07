@@ -34,4 +34,5 @@
     "claudeCode.preferredLocation": "sidebar",
     "claudeCode.selectedModel": "opus",
     "diffEditor.hideUnchangedRegions.enabled": true,
+    "remote.autoForwardPorts": false,
 }
