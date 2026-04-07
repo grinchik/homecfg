@@ -3,6 +3,11 @@
 set -e;
 set -x;
 
+mkdir \
+    -p \
+    "${HOME}/Library/Application Support/Code/User/" \
+    ;
+
 ln \
     -s \
     "$(pwd)/settings.json" \
